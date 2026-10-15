@@ -18,6 +18,10 @@ export default defineConfig({
       '/api/budgets': {
         target: 'http://localhost:3003',
         changeOrigin: true
+      },
+      '/api/notifications': {
+        target: 'http://localhost:3004',
+        changeOrigin: true
       }
     }
   }
