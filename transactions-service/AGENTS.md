@@ -1,0 +1,1 @@
+Este proyecto usa el stack que el agente definió en la Clase 2. Componentes funcionales, sin clases. Usa el sistema de diseño ya presente en el repo si existe. No inventes dependencias nuevas sin justificarlo en el plan.
